@@ -1,2 +1,2 @@
 This is some content.
-gi
+new line
